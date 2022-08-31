@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{79BB5410-06BF-4D76-9BBE-075C0F16BCFD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Line_Notify_Weiti/Callback.aspx.cs">
+    <Files>
+      <File FileName="Line_Notify_Weiti/Callback.aspx.cs" Line="13" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Line_Notify_Weiti" expanded="True">
+            <Node name="Line_Notify_Weiti" expanded="True">
+              <Node name="Callback.aspx" expanded="True">
+                <Node name="Callback.aspx.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>Line_Notify_Example/Line_Notify_Weiti.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Line__Notify__Weiti PreferredExecutionTarget="/Applications/Basic/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/teddie/JJ Digital/Testing/Line/Notification/LineNotifyExample1/Line_Notify_Weiti/Controllers/JJNotifyController.cs" relfile="Line_Notify_Weiti/Controllers/JJNotifyController.cs" line="14" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
